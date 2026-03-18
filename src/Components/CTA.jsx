@@ -9,21 +9,21 @@ const CTA = () => {
         <span className="text-xl">Mail me at:</span>{" "}
         <span className="text-xl blue-gradient_text font-semibold drop-shadow">
           {" "}
-          ankursharma.1611@gmail.com
+          singh.harsh0447@gmail.com
         </span>
       </p>
       <Link to="/contact" className="btn">
         Contact
       </Link>
       <Link
-        to="https://drive.google.com/file/d/1Wluo_1NylfNEZti_wUcYdyw2ujLo5sCI/view?usp=sharing"
+        to="https://drive.google.com/file/d/1aUJIkyFtg5Zz3u5bQBfqYN0AHvNV_aDt/view?usp=sharing"
         target="_blank"
         className="btn"
       >
         View Resume
       </Link>
       <Link
-        to="https://www.linkedin.com/in/ankur-sharma-86828616a/"
+        to="https://www.linkedin.com/in/harshdeep-singh-3607b81ba/"
         target="_blank"
         className="btn"
       >

@@ -12,15 +12,15 @@ const About = () => {
       <h1 className="head-text">
         Hello, I'm{" "}
         <span className="blue-gradient_text font-semibold drop-shadow">
-          Ankur
+          Harshdeep Singh
         </span>
       </h1>
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
         <p>
           Passionate frontend developer with expertise in building dynamic,
-          responsive web applications using React and Redux. Skilled in creating
-          clean, scalable code, I have experience with modern JavaScript (ES6+),
-          state management, and integrating RESTful APIs.
+          responsive web applications using Frontend Technolgies . Skilled in
+          creating clean, scalable code, I have experience with modern
+          JavaScript (ES6+), state management, and integrating RESTful APIs.
         </p>
       </div>
       <div className="py-10 flex flex-col">
@@ -49,7 +49,7 @@ const About = () => {
         <div className="mt-5 flex flex-col gap-3 text-slate-500">
           <p>
             With hands-on experience in developing modern web applications, I
-            specialize in React and Redux for state management, ensuring clean,
+            specialize in React for state management, ensuring clean,
             maintainable, and scalable code. I have successfully built dynamic
             interfaces, optimized performance, and worked closely with backend
             teams to integrate APIs. My focus has been on delivering

@@ -4,7 +4,7 @@ import shopify from './shopify.png'
 import starbucks from './starbucks.png'
 import tesla from './tesla.png'
 import logo from './logo.svg'
-import pp from './pp_logo.jpeg'
+import pp from './pp_logo.png'
 
 
 export {
