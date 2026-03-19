@@ -88,11 +88,11 @@ export const skillsTech = [
 
 export const experiences = [
     {
-        title: "Software Engineer - Frontend",
-        company_name: "Icreon",
+        title: "Frontend Intern",
+        company_name: "Hits Solution Pvt Limited",
         icon: pp,
         iconBg: "#FAC800",
-        date: "April 2024 - January 2025",
+        date: "April 2023 - June 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -102,19 +102,7 @@ export const experiences = [
             "Leveraged expertise in FlutterFlow's widget library to customize UI components and streamline user interactions, contributing to an efficient frontend architecture",
         ],
     },
-    {
-        title: "Engineer L1- Technology",
-        company_name: "ChangeCX",
-        icon: pp,
-        iconBg: "#FAC800",
-        date: "July 2023 - March 2024",
-        points: [
-            "Assisted in the development of frontend components for web applications, gaining hands-on experience with HTML, CSS, and JavaScript.",
-            "Contributed to the implementation of responsive designs, ensuring compatibility across various devices and screen sizes.",
-            "Collaborated with senior developers to debug issues and optimize code for performance and maintainability.",
-            "Conducted research on emerging frontend technologies and presented findings to the team to support decision making processes.",
-        ],
-    },
+   
 ];
 
 export const socialLinks = [
@@ -147,8 +135,8 @@ export const projects = [
             "Displayed default countries on initial load and enabled dynamic search functionality.",
             "Tech-Stack used : JavaScript (ES6+), HTML, CSS, REST APIs, HTTP, JSON ",
         ],
-        link: 'https://github.com/harshsinghg12/Know-Your-Country',
-        githubLink: 'https://github.com/harshsinghg12/Know-Your-Country',
+        link: 'https://github.com/ABHAYM69/KnowYourCountry',
+        githubLink: 'https://github.com/ABHAYM69/KnowYourCountry',
     },
     {
         iconUrl: threads,
@@ -161,8 +149,8 @@ export const projects = [
            "Consumed external RESTful APIs using asynchronous JavaScript and JSON handling.",
            "Tech Stack Used : React.js, JavaScript (ES6+), HTML , CSS",
         ],
-        link: '//github.com/harshsinghg12/react-ecommerce',
-        githubLink: 'https://github.com/harshsinghg12/react-ecommerce',
+        link: 'https://github.com/ABHAYM69/ECommeerce',
+        githubLink: 'https://github.com/ABHAYM69/ECommeerce',
     },
     // {
     //     iconUrl: threads,
